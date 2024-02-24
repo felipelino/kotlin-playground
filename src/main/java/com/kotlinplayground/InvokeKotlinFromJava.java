@@ -15,7 +15,7 @@ public class InvokeKotlinFromJava {
         System.out.println("noOfCourses: "+ course.noOfCourses);
 
         var course2 = new Course(1, "Course", "Dilip");
-        System.out.println("course2: "+ course2.);
+        System.out.println("course2: "+ course2);
 
         CourseUtils.printName1();
         CourseUtils.printName1("Abc");
